@@ -18,9 +18,9 @@
   "dependencies": {
     "walk": "2.2.1",
     "underscore": "1.5.1",
-    "canvas": "1.0.3",
+    "canvas": "1.1.6",
     "handlebars": "1.0.12",
-    "imagediff": "1.0.4",
+    "imagediff": "1.0.8",
     "commander": "1.2.0",
     "colors": "0.6.0-1"
   },
